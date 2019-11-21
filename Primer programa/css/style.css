@@ -1,0 +1,36 @@
+body
+{
+    background-color:beige;
+    
+}
+h1
+{
+    color: blueviolet;
+}
+h2
+{
+    color: rgb(101, 32, 167);
+    font-size: 32px;
+}
+h3
+{
+    color: rgb(56, 18, 92);
+}
+
+footer
+{
+    background-color: aliceblue;
+}
+.gatos
+{
+    width: 450px;
+    border-radius: 15px;
+    border: solid 1px blue;
+}
+
+#gatoAcostado
+{
+    width: 450px;
+    border-radius: 15px;
+    border: solid 1px red;
+}
